@@ -1,0 +1,6 @@
+C:\Users\resid\source\repos\FTS\FTS.PocoGenerator\bin\Debug\FTS.PocoGenerator.dll
+C:\Users\resid\source\repos\FTS\FTS.PocoGenerator\bin\Debug\FTS.PocoGenerator.pdb
+C:\Users\resid\source\repos\FTS\FTS.PocoGenerator\obj\Debug\FTS.PocoGenerator.csprojAssemblyReference.cache
+C:\Users\resid\source\repos\FTS\FTS.PocoGenerator\obj\Debug\FTS.PocoGenerator.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\FTS\FTS.PocoGenerator\obj\Debug\FTS.PocoGenerator.dll
+C:\Users\resid\source\repos\FTS\FTS.PocoGenerator\obj\Debug\FTS.PocoGenerator.pdb
